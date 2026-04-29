@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180" width="1680" height="720">
+  <rect width="100%" height="100%" fill="white"/>
+  
+    <g fill="#143629" stroke="none">
+      <path d="M 179.4 35.2
+               q 9.0 -12.6 21.6 -14.4
+               q -4.5 9.0 -14.4 16.2
+               z"/>
+      <path d="M 240.6 35.2
+               q -9.0 -12.6 -21.6 -14.4
+               q 4.5 9.0 14.4 16.2
+               z"/>
+      <path d="M 210.0 29.8
+               q -9.0 -16.2 -3.6 -25.2
+               q 3.6 3.6 3.6 10.8
+               q 0.0 -7.2 3.6 -10.8
+               q 5.4 9.0 -3.6 25.2
+               z"/>
+      <ellipse cx="190.2" cy="29.8" rx="6.3" ry="3.1" transform="rotate(-22 190.2 29.8)"/>
+      <ellipse cx="229.8" cy="29.8" rx="6.3" ry="3.1" transform="rotate(22 229.8 29.8)"/>
+      <ellipse cx="168.6" cy="37.0" rx="7.2" ry="3.6" transform="rotate(-18 168.6 37.0)"/>
+      <ellipse cx="251.4" cy="37.0" rx="7.2" ry="3.6" transform="rotate(18 251.4 37.0)"/>
+    </g>
+    
+  <text x="210" y="76" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="46" font-weight="700" letter-spacing="1.4" fill="#143629">HONEYSUCKLE</text>
+  <g transform="translate(60, 10) scale(0.85)">
+    
+    <g>
+      <rect x="183.0" y="141.0" width="10" height="14" fill="#143629" transform="rotate(0.0 188.0 148.0)" rx="1.5"/><rect x="171.9" y="167.9" width="10" height="14" fill="#143629" transform="rotate(45.0 176.9 174.9)" rx="1.5"/><rect x="145.0" y="179.0" width="10" height="14" fill="#143629" transform="rotate(90.0 150.0 186.0)" rx="1.5"/><rect x="118.1" y="167.9" width="10" height="14" fill="#143629" transform="rotate(135.0 123.1 174.9)" rx="1.5"/><rect x="107.0" y="141.0" width="10" height="14" fill="#143629" transform="rotate(180.0 112.0 148.0)" rx="1.5"/><rect x="118.1" y="114.1" width="10" height="14" fill="#143629" transform="rotate(225.0 123.1 121.1)" rx="1.5"/><rect x="145.0" y="103.0" width="10" height="14" fill="#143629" transform="rotate(270.0 150.0 110.0)" rx="1.5"/><rect x="171.9" y="114.1" width="10" height="14" fill="#143629" transform="rotate(315.0 176.9 121.1)" rx="1.5"/>
+      <circle cx="150" cy="148" r="34" fill="#143629"/>
+      <circle cx="150" cy="148" r="15" fill="white"/>
+    </g>
+    
+  </g>
+  <text x="210" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1.6" fill="#143629">AUTOMATION</text>
+</svg>
