@@ -27,7 +27,7 @@ Brand assets for Honeysuckle Enterprise and its entities (Automation, Scoring Sy
 Add as a git submodule in the consuming repo:
 
 ```bash
-git submodule add https://github.com/HoneysuckleAutomation/Website_Resources.git public/brand
+git submodule add https://github.com/HoneysuckleDesigns/Website_Resources.git public/brand
 git submodule update --init --recursive
 ```
 
